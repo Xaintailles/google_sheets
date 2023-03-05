@@ -1,0 +1,5 @@
+Grabs the Fuzzwork latest prices for any items used to generate skill points in Eve Online.
+Need to change the value of the Update field to refresh.
+Will add seasonal boosters to the sheet as we go.
+
+https://docs.google.com/spreadsheets/d/1_enbgcx2UyOafLiFEBUSfqBs9LphP_DmFbAzc4ryQCg/edit?usp=sharing
